@@ -1,9 +1,9 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="itacademy.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif?cid=790b76111k8zbk2mdw2sywcxzgo741jfzi5ao0q51rfafmj7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Project logo"></a>
 </p>
 
-<h3  align="center"><span style="color: #FF000">Entrega 5.2 <br>SQL Querys</span></h3>
+<h3  align="center"><span style="color: #FF000">Entrega 5.2 <br>SQL Queries</span></h3>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">Explorando las querys en SQL
+<p align="center">Explorando las queries en SQL
     <br>
 </p>
 
@@ -54,7 +54,7 @@ Y la segunda parte viene a ser lo mismo pero con el archivo de la base de datos 
 ```
 
 
-el archivo de las querys es este:
+el archivo de las queries es este:
 
 ```
 ./universidad/scripts/querys_universidad.sql
